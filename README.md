@@ -4,6 +4,22 @@
 ![living](https://img.shields.io/badge/living-Madrid-3c9)
 
 
+<h2 align="left">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Orlando and I'm based in Spain.</h2>
+
+
+<h4 align='left'>
+  Full-stack Web Developer | JavaScript, Python, PHP, Java Enthusiast
+</h4>
+
+
+## 🧑 About me:
+
+<p>
+Adaptable and a challenger senior frontend developer with more than 14 years of experience in both backend and frontend, having a reputation for being very approachable, effective at onboarding and coaching juniors and for being the go-to person. I have been leading frontend teams lately. I am a Frontend but mainly an Angular fanatic, and would enjoy discussions going deep in this field. 
+</p>
+
+
+
 ## Hi there! 👋
 
 
