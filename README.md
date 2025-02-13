@@ -4,7 +4,7 @@
 ![living](https://img.shields.io/badge/living-Madrid-3c9)
 
 
-<h2 align="left">Hey there 👋, I'm Orlando and I'm based in Spain.</h2>
+##
 
 
 <h4 align='left'>
