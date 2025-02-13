@@ -7,7 +7,7 @@
 ## Hi there! 👋
 
 
-I create and manage web and mobile apps, making sure they are fast, easy to use, and accessible for everyone. I love learning about new technologies and figuring out how things work.
+I create and manage web sites and apps, making sure they are fast, easy to use, and accessible for everyone. I love learning about new technologies and figuring out how things work.
 
 ## 
 
