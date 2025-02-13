@@ -13,13 +13,7 @@ As a problem solver with meticulous attention to detail, I'm adept at identifyin
 
 #### Programming Languages
 
-- HTML
-- CSS
-- JavaScript / TypeScript
-- Python
-- PHP
-- Java
-- SQL
+HTML, CSS, JavaScript / TypeScript, Python, PHP, Java, SQL
 
 
 #### Front-End
