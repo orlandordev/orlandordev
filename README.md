@@ -7,9 +7,9 @@
 ##
 
 
-<h4 align='left'>
+<h3 align='left'>
   Full-stack Web Developer | JavaScript, Python, PHP, Java Enthusiast
-</h4>
+</h3>
 
 
 <p>
