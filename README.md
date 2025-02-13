@@ -15,15 +15,8 @@
 ## 🧑 About me:
 
 <p>
-Adaptable and a challenger senior frontend developer with more than 14 years of experience in both backend and frontend, having a reputation for being very approachable, effective at onboarding and coaching juniors and for being the go-to person. I have been leading frontend teams lately. I am a Frontend but mainly an Angular fanatic, and would enjoy discussions going deep in this field. 
+Adaptable and a challenger senior Full-stack Web Developer with more than 10 years of experience in both backend and frontend, having a reputation for being very approachable, effective at onboarding and coaching juniors and for being the go-to person. I am a FullStack but mainly an Angular fanatic, and would enjoy discussions going deep in this field. 
 </p>
-
-
-
-## Hi there! 👋
-
-
-I create and manage web sites and apps, making sure they are fast, easy to use, and accessible for everyone. I love learning about new technologies and figuring out how things work.
 
 ## 
 
